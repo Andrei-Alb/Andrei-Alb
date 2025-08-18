@@ -114,8 +114,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 
 ---
 
-## 📈 **Visão Geral do Perfil**
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrei-Alb&style=for-the-badge&color=00D4AA" alt="Profile Views" />
 </div>
