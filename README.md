@@ -18,17 +18,11 @@
 
 </div>
 
-\`\`\`yaml
-name: Andrei
-located_in: Brasil
-current_focus: Full Stack Development
-learning: Novas tecnologias e frameworks
 interests: 
   - Web Development
   - Backend Architecture
   - Database Design
   - DevOps & Cloud
-\`\`\`
 
 <br>
 
@@ -124,8 +118,6 @@ interests:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andrei-Alb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&ring_color=00D4AA" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrei-Alb&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=8B949E" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Alb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrei-Alb&theme=radical&utcOffset=-3" alt="Productive Time" />
 
 </div>
 
@@ -207,19 +199,5 @@ interests:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+%F0%9F%91%8B;Vamos+construir+algo+incr%C3%ADvel+juntos!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8;Sempre+aprendendo%2C+sempre+evoluindo!+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-
 </div>
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-</div>
