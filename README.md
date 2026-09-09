@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4AA,100:0D1117&height=170&section=header&text=Andrei%20Albuquerque&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20vibecoder&descSize=18&descAlignY=58" alt="Andrei Albuquerque">
+# Andrei Albuquerque
 
-<a href="https://github.com/Andrei-Alb"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=560&lines=vibecoder+%E2%80%94+eu+descrevo%2C+os+agentes+constroem;TypeScript+vertical%2C+edge+e+agentes+de+c%C3%B3digo;produto+no+ar+%3E+c%C3%B3digo+bonito+na+gaveta" alt="tagline"></a>
+**Full-Stack & AI Engineer** · **vibecoder** — TypeScript vertical, edge e agentes de código no dia a dia.
+
+<a href="https://github.com/Andrei-Alb"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&height=40&lines=eu+descrevo%2C+os+agentes+constroem;TypeScript+vertical%2C+edge+e+agentes+de+c%C3%B3digo;produto+no+ar+%3E+c%C3%B3digo+bonito+na+gaveta" alt="tagline"></a>
 
 <a href="https://mefor.me/andreicode"><img src="https://img.shields.io/badge/mefor.me%2Fandreicode-00D4AA?style=flat-square&logo=googlechrome&logoColor=white" alt="Perfil mefor.me"></a>
 <a href="mailto:andrei.coode@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -95,7 +97,5 @@ Agentes de código não são novidade aqui: são a toolchain. Skills, hooks, sub
 <div align="center">
 
 **Quer construir algo?** [mefor.me/andreicode](https://mefor.me/andreicode) · [andrei.coode@gmail.com](mailto:andrei.coode@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4AA,100:0D1117&height=100&section=footer" alt="">
 
 </div>
