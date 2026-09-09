@@ -4,8 +4,6 @@
 
 **Full-Stack & AI Engineer** · **vibecoder** — TypeScript vertical, edge e agentes de código no dia a dia.
 
-<a href="https://github.com/Andrei-Alb"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=00D4AA&center=true&vCenter=true&width=700&height=40&lines=eu+descrevo%2C+os+agentes+constroem;TypeScript+vertical%2C+edge+e+agentes+de+c%C3%B3digo;produto+no+ar+%3E+c%C3%B3digo+bonito+na+gaveta" alt="tagline"></a>
-
 <a href="https://mefor.me/andreicode"><img src="https://img.shields.io/badge/mefor.me%2Fandreicode-00D4AA?style=flat-square&logo=googlechrome&logoColor=white" alt="Perfil mefor.me"></a>
 <a href="mailto:andrei.coode@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://instagram.com/andrei.code"><img src="https://img.shields.io/badge/Instagram-24292F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -14,9 +12,6 @@
 </div>
 
 ---
-
-> **Sou vibecoder.** Não decoro API, não brigo com boilerplate: eu desenho o produto, escrevo o contexto
-> e conduzo agentes de código pra entregar. O que importa é o que está no ar — e está.
 
 ### O que eu construí
 
@@ -42,17 +37,9 @@
 
 ---
 
-## Agora
-
-- **mefor.me** — editor livre de link-in-bio: shape magic, música e drag em qualquer lugar
-- **DeyVoice** — ditado offline no Windows, transcrição 100% local
-- **toolchain de agentes** — skills, hooks e MCP servers próprios pra vibecoding com processo
-
----
-
 ## Como eu trabalho
 
-Agentes de código não são novidade aqui: são a toolchain. Skills, hooks, subagents e MCP servers escritos por mim — vibecoding com processo, revisão e deploy de verdade.
+Agentes de código não são novidade aqui: são parte da toolchain. Skills, hooks, subagents e MCP servers escritos por mim, com revisão, testes e deploy no fluxo normal de trabalho.
 
 <a href="https://github.com/can1357/oh-my-pi"><img src="https://img.shields.io/badge/Oh_My_Pi-0D1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRDRBQSI+PHBhdGggZD0iTTMgNWgxOHYzaC0zdjExaC0zVjhIOXYxMUg2VjhIM3oiLz48L3N2Zz4=&logoColor=00D4AA&labelColor=0D1117&color=00D4AA" alt="Oh My Pi"></a>
 <a href="https://herdr.dev"><img src="https://img.shields.io/badge/herdr-0D1117?style=flat-square&logo=gnometerminal&logoColor=00D4AA&labelColor=0D1117&color=00D4AA" alt="herdr"></a>
@@ -63,7 +50,7 @@ Agentes de código não são novidade aqui: são a toolchain. Skills, hooks, sub
 
 - **[Oh My Pi](https://github.com/can1357/oh-my-pi)** — harness principal: subagents em paralelo, LSP, tool devices, skills próprias
 - **[herdr](https://herdr.dev)** — multiplexer de agentes no terminal, um workspace por worktree
-- **MCP servers próprios** — memória semântica (SQLite + embeddings + FTS5 híbrida), integrações internas, controle de voz
+- **MCP servers próprios** — memória semântica (SQLite + embeddings + FTS5 híbrida), integrações internas
 
 ---
 
@@ -89,13 +76,5 @@ Agentes de código não são novidade aqui: são a toolchain. Skills, hooks, sub
 <div align="center">
 
 <img src="https://github-trophies.vercel.app/?username=Andrei-Alb&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Troféus do GitHub">
-
-</div>
-
----
-
-<div align="center">
-
-**Quer construir algo?** [mefor.me/andreicode](https://mefor.me/andreicode) · [andrei.coode@gmail.com](mailto:andrei.coode@gmail.com)
 
 </div>
