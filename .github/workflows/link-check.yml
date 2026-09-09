@@ -1,0 +1,21 @@
+name: link-check
+
+on:
+  push:
+    paths: ["README.md", ".github/workflows/link-check.yml"]
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+      - name: Check README links and image endpoints
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --include-verbatim --max-concurrency 4 README.md
+          fail: true
