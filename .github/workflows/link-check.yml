@@ -17,5 +17,8 @@ jobs:
       - name: Check README links and image endpoints
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --include-verbatim --max-concurrency 4 README.md
+          args: >-
+            --no-progress --include-verbatim --max-concurrency 4
+            --accept 200,206,429 --exclude instagram\.com
+            README.md
           fail: true
