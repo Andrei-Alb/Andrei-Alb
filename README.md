@@ -40,6 +40,14 @@
 
 ---
 
+## Agora
+
+- **mefor.me** — editor livre de link-in-bio: shape magic, música e drag em qualquer lugar
+- **DeyVoice** — ditado offline no Windows, transcrição 100% local
+- **toolchain de agentes** — skills, hooks e MCP servers próprios pra vibecoding com processo
+
+---
+
 ## Como eu trabalho
 
 Agentes de código não são novidade aqui: são a toolchain. Skills, hooks, subagents e MCP servers escritos por mim — vibecoding com processo, revisão e deploy de verdade.
