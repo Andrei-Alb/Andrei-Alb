@@ -2,7 +2,7 @@
 
 # Andrei Albuquerque
 
-**Full-Stack & AI Engineer** · **vibecoder** — TypeScript vertical, edge e agentes de código no dia a dia.
+**Full-Stack & AI Engineer** · TypeScript vertical, edge e agentes de código no dia a dia.
 
 <a href="https://mefor.me/andreicode"><img src="https://img.shields.io/badge/mefor.me%2Fandreicode-00D4AA?style=flat-square&logo=googlechrome&logoColor=white" alt="Perfil mefor.me"></a>
 <a href="mailto:andrei.coode@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
